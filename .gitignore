@@ -1,0 +1,17 @@
+# don’t check in the downloaded gazetteer or your outputs
+places.csv
+all_reports_places.json
+
+# don’t check in user PDFs
+pdf_reports/
+
+# python bytecode
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# virtualenvs
+venv/
+.env/
