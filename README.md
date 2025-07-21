@@ -64,5 +64,3 @@ all_reports_places.json
 
 Feel free to open issues or PRs especially if you fınd ambiguous place names needing blacklisting, or if you have ideas for improved snippet extraction.
 
-Happy extracting! 🚀
-
