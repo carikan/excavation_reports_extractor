@@ -18,7 +18,7 @@ A lightweight Python toolkit to pull ancient placenames out of the Annual Excava
 
 ```bash
 # 1. Clone this repo:
-git clone https://github.com/yourusername/excavation_reports_extractor.git
+git clone https://github.com/carikan/excavation_reports_extractor.git
 cd excavation_reports_extractor
 
 # 2. Install dependencies:
