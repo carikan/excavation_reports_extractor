@@ -1,6 +1,6 @@
 # Excavation Reports Extractor
 
-A lightweight Python toolkit to pull ancient placenames out of the Annual Excavation Results Turkish "Kazı Sonuçları Toplantısı" PDFs using the Pleiades gazetteer.
+A lightweight Python toolkit to pull ancient placenames out of the Turkish Annual Archaeological Excavation Results  ["Kazı Sonuçları Toplantısı"](https://ukaas.ktb.gov.tr/TR-389973/kazi-sonuclari-toplantisi.html) PDFs using the [Pleiades gazetteer](https://pleiades.stoa.org/).
 
 ## What it does
 
